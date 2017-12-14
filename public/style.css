@@ -1,0 +1,9 @@
+.image{
+    width: 100px;
+    height: 100px;
+}
+
+h2{
+    display: inline;
+    margin-left: 40px;
+}

@@ -1,0 +1,13 @@
+Recomendations:
+This is a list of recommendations to make this project better 
+(UI, UX, Performance, Security, Architecture, Bug fix, New Feature, ...etc )
+
+// Please make your recommendations as clear as possible with only a few sentences 
+
+1. install express , body-parse and serve-static
+
+2. correct the error in code
+
+3. change the css by create style.css file
+
+4. write function for change password
